@@ -10,5 +10,10 @@ Tired of refreshing website for a TX DPS Appointment? Now do it programmatically
 * Book an appointment programmatically
 
 ## Table of Contents
+* [Installation](#installation)
 
-## Getting Started
+## Installation
+
+[Pypi](https://pypi.org/project/txdps/)
+
+`pip install txdps`
